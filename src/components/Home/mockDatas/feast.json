@@ -1,0 +1,38 @@
+[
+    {
+        "_id":"0",
+        "img":"./images/1.jpg",
+        "name":"Kampanyalar"
+    },
+    {
+        "_id":"1",
+        "img":"./images/2.jpg",
+        "name":"Pizzalar"
+    },
+    {
+        "_id":"2",
+        "img":"./images/3.jpg",
+        "name":"Sıcak Sandviçler"
+    },
+    {
+        "_id":"3",
+        "img":"./images/4.jpg",
+        "name":"Başlangıçlar"
+    },
+    {
+        "_id":"4",
+        "img":"./images/5.jpg",
+        "name":"Yan Ürünler"
+    },
+    {
+        "_id":"5",
+        "img":"./images/6.jpg",
+        "name":"Tatlılar"
+    },
+    {
+        "_id":"6",
+        "img":"./images/7.jpg",
+        "name":"İçecekler"
+    }
+
+]

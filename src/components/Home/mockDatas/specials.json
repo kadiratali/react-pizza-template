@@ -1,0 +1,137 @@
+[
+    {
+        "_id":"0",
+        "head":"Pizza Margherita",
+        "content":"Fesleğen yaprağı,Mozzeralle Peyniri,Domates Sosu"
+    },
+    {
+        "_id":"1",
+        "head":"Pizza Colazione",
+        "content":"beyaz peynir, domates, siyah zeytin, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"2",
+        "head":"Pizza Vega",
+        "content":"tulum peynir, köz kırmızı biber, mantar, mısır, zeytin, roka, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"3",
+        "head":"Pizza Capricciosa",
+        "content":"mantar, siyah zeytin, yeşil zeytin, kapari, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"4",
+        "head":"Pizza Alle Melanzane",
+        "content":"közlenmiş patlıcan, köz kırmızı biber, yeşil zeytin, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"5",
+        "head":"PIZZA AI FUNGHI",
+        "content":"mantar, mozzarella peynir, domates sosu, domates sosu"
+    },
+    {
+        "_id":"6",
+        "head":"PIZZA AI FORMAGGI",
+        "content":" mozzarella peynir, edam, parmesan peynirleri, roka, domates sosu"
+    }, 
+    {
+        "_id":"7",
+        "head":"PIZZA MISTA",
+        "content":"mantar, zeytin, biber, soğan, domates, mısır, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"8",
+        "head":"PIZZA JALAPENO",
+        "content":"jalapeno (acı biber), mantar, köz kırmızı biber, mısır, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"9",
+        "head":"PIZZA CHEDAR",
+        "content":"chedar peyniri, zeytin, mantar, kurutulmuş domates, ceviz, moz.peyniri, dom.sos. "
+    },
+    {
+        "_id":"10",
+        "head":"PIZZA DELL’ORTOLANO",
+        "content":"kabak, patlıcan, brokoli, biber, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"11",
+        "head":"PIZZA ALPICO",
+        "content":"karamelize soğan, köz kırmızı biber, siyah zeytin, ceviz, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"12",
+        "head":"PIZZA ALLA BUFALA",
+        "content":"suda mozzarella, domates, roka, fesleğen yaprağı, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"13",
+        "head":"CENOVA SALAMLI",
+        "content":"Cenova salamı, zeytin, mantar, roka, mozarella peyniri, özel sos"
+    },
+    {
+        "_id":"14",
+        "head":"KARABİBERLİ İTALYAN SALAMLI",
+        "content":"Karabiberli İtalyan salamı, mısır, mantar, roka, mozarella peyniri, özel sos"
+    },
+    {
+        "_id":"15",
+        "head":"FÜME ROZBİFLİ",
+        "content":"Füme rozbif, zeytin, kurutulmuş domates, roka, mozarella peyniri, özel sos"
+    },
+    {
+        "_id":"16",
+        "head":"FÜME HİNDİLİ",
+        "content":"Füme hindi, zeytin, yeşil biber, roka, mozarella peyniri, özel sos"
+    },
+    {
+        "_id":"17",
+        "head":"FÜME TAVUKLU",
+        "content":"Füme tavuk, zeytin, mantar, roka, mozarella peyniri, özel sos"
+    },
+    {
+        "_id":"18",
+        "head":"PIZZA ALLA MILANESE",
+        "content":"dana jambon, mantar, s.zeytin, kurutulmuş domates, mozzarella peynir, domates sosu"
+    },
+    {
+        "_id":"19",
+        "head":"PIZZA ENTRECOTE",
+        "content":"füme antirikot, s.zeytin, mantar, kurutulmuş domates, mozzarella peynir, domates sos. "
+    },
+    {
+        "_id":"20",
+        "head":"PIZZA PICCANTE",
+        "content":"pepperoni sucuk, s.zeytin, acı sos, mozzarella peynir, domates sosu "
+    },
+    {
+        "_id":"21",
+        "head":"PIZZA AL POLLO",
+        "content":"şerit tavuk bonfile, kavrulmuş mantar, ızgara soğan, mozzarella peynir, domates sosu "
+    },
+    {
+        "_id":"22",
+        "head":"PIZZA TANICO",
+        "content":"dana jambon, mantar, mozzarella peynir, domates sosu "
+    },
+    {
+        "_id":"23",
+        "head":"PIZZA ALLA TURCA",
+        "content":"sucuk, salam, sosis, mozzarella peynir, domates sosu "
+    },
+    {
+        "_id":"24",
+        "head":"PIZZA ALLA TOSCANA",
+        "content":"dana jambon, salam, yumurta, zeytin, mozzarella peynir, domates sosu "
+    },
+    {
+        "_id":"25",
+        "head":"PIZZA PASTRAMI",
+        "content":"pastirma, kavrulmuş mantar, ızgara soğan, kurutulmuş domates, mozzarella peynir, domates sosu"
+    }
+  
+
+
+
+
+]
