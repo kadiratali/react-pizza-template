@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   const [login, setLogin] = useState(false);
@@ -104,23 +105,25 @@ export default function Navbar() {
             </div>
             <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
               <div className="flex-shrink-0 flex items-center">
-                <img
-                  className="block lg:hidden h-8 w-auto"
-                  src="./images/pizza-logo.png"
-                  alt="Workflow"
-                />
-                <img
-                  className="hidden lg:block h-8 w-auto"
-                  src="./images/pizza-logo.png"
-                  alt="Workflow"
-                />
+                <a href="/">
+                  <img
+                    className="block lg:hidden h-8 w-auto"
+                    src="./images/pizza-logo.png"
+                    alt="Workflow"
+                  />
+                  <img
+                    className="hidden lg:block h-8 w-auto"
+                    src="./images/pizza-logo.png"
+                    alt="Workflow"
+                  />
+                </a>
               </div>
               <div className="hidden sm:block sm:ml-6">
                 <div className="flex space-x-4">
                   {/* <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" --> */}
                   <a
                     onClick={bgHandler}
-                    href="#"
+                    href="/"
                     data-columns="0"
                     className={`${
                       menubg[0] === true ? "bg-red-900" : "hover:bg-red-600"
@@ -209,15 +212,17 @@ export default function Navbar() {
                   </div>
                 ) : (
                   <div>
-                    <button
-                      type="button"
-                      className="bg-red-800 text-white flex  focus:outline-none ring-2  ring-offset-gray-800 ring-white rounded-xl px-4 py-1 hover:bg-red-600 font-serif text-base"
-                      id="user-menu-button"
-                      aria-expanded="false"
-                      aria-haspopup="true"
-                    >
-                      Login
-                    </button>
+                    <Link to="/login">
+                      <button
+                        type="button"
+                        className="bg-red-800 text-white flex  focus:outline-none ring-2  ring-offset-gray-800 ring-white rounded-xl px-4 py-1 hover:bg-red-600 font-serif text-base"
+                        id="user-menu-button"
+                        aria-expanded="false"
+                        aria-haspopup="true"
+                      >
+                        Login
+                      </button>
+                    </Link>
                   </div>
                 )}
 
@@ -290,7 +295,7 @@ export default function Navbar() {
             <a
               data-columns="0"
               onClick={bgHandler}
-              href="#"
+              href="/"
               className={`${
                 menubg[0] === true ? "bg-red-900" : "hover:bg-red-600"
               } text-white block px-3 py-2 rounded-md text-base font-medium`}
