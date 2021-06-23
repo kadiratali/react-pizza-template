@@ -4,6 +4,7 @@ import HomePage from "./pages/HomePage";
 import Footer from "./components/layouts/footer";
 import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
 import Login from "./pages/Login";
+import Promotions from "./pages/Promotions";
 
 function App() {
   const x = "ahmet";
@@ -18,6 +19,7 @@ function App() {
           <Switch>
             <Route exact path="/" component={HomePage} />
             <Route path="/login" component={Login} />
+            <Route path="/promotions" component={Promotions} />
           </Switch>
         </main>
         <footer>

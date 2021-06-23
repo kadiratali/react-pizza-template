@@ -123,14 +123,14 @@ export default function Navbar() {
                   {/* <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" --> */}
                   <a
                     onClick={bgHandler}
-                    href="/"
+                    href="/promotions"
                     data-columns="0"
                     className={`${
                       menubg[0] === true ? "bg-red-900" : "hover:bg-red-600"
                     } text-white block px-2 md:px-3 py-2 rounded-md text-sm md:text-base font-medium`}
                     aria-current="page"
                   >
-                    Kampanyalar
+                    Promotions
                   </a>
 
                   <a
@@ -295,13 +295,13 @@ export default function Navbar() {
             <a
               data-columns="0"
               onClick={bgHandler}
-              href="/"
+              href="/promotions"
               className={`${
                 menubg[0] === true ? "bg-red-900" : "hover:bg-red-600"
               } text-white block px-3 py-2 rounded-md text-base font-medium`}
               aria-current="page"
             >
-              Kampanyalar
+              Promotions
             </a>
 
             <a

@@ -7,6 +7,10 @@ module.exports = {
         pitza: "url('bg_image/bg_3.jpg')",
       }),
 
+      spacing: {
+        "ml-10%": "10%",
+      },
+
       height: {
         "6/7": "87.777777%",
       },

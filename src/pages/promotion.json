@@ -1,0 +1,39 @@
+[
+    {
+        "_id":"0",
+        "img":"./images/promotion.webp",
+        "name":"Mid Year Sale with medium size pizza",
+        "Pname":"Free! medium pan or crispy thin pizza when purchase medium extreme crust pizza."
+        
+    },
+    {
+        "_id":"1",
+        "img":"./images/promotion2.webp",
+        "name":"Mid Year Sale with large size pizza",
+        "Pname":"Free! large pan or crispy thin pizza when purchase large extreme crust pizza."
+    },
+    {
+        "_id":"2",
+        "img":"./images/promotion3.jpg",
+        "name":"Oh My Shrimp Set",
+        "Pname":"Medium extreme cheesy shrimp crust with classic topping, Baked prawns in Thai spicy "
+    },
+    {
+        "_id":"3",
+        "img":"./images/promotion4.jpg",
+        "name":"Zeed Kung Zap Set",
+        "Pname":"Medium size of crispy thin crust with Tom Yum Kung topping, Baked prawns in Thai spicy sauce and coke 500 ml."
+    },
+    {
+        "_id":"4",
+        "img":"./images/promotion5.png",
+        "name":"Aroi Sook Kheed Set",
+        "Pname":"Medium pizza with classic topping, BBQ chicken 4 pcs., fish finger 4 pcs. and waffle fries"
+    },
+    {
+        "_id":"5",
+        "img":"./images/promotion6.png",
+        "name":"Aroi Sook Koom Set",
+        "Pname":"Small pizza with classic topping, BBQ chicken 4 pcs. and coke 500 ml."
+    }
+]
