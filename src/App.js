@@ -5,6 +5,9 @@ import Footer from "./components/layouts/footer";
 import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
 import Login from "./pages/Login";
 import Promotions from "./pages/Promotions";
+import Pizza from "./pages/Pizza";
+import Sandwiches from "./pages/sandwiches";
+import Extra from "./pages/Extra";
 
 function App() {
   const x = "ahmet";
@@ -20,6 +23,9 @@ function App() {
             <Route exact path="/" component={HomePage} />
             <Route path="/login" component={Login} />
             <Route path="/promotions" component={Promotions} />
+            <Route path="/pizza" component={Pizza} />
+            <Route path="/sandwiches" component={Sandwiches} />
+            <Route path="/extra" component={Extra} />
           </Switch>
         </main>
         <footer>

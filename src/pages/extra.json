@@ -1,0 +1,33 @@
+[
+    {
+        "_id":"0",
+        "images":"./images/extra-1.jpg",
+        "name":"Ice Cream Bar Vanilla (MULTIPACK) 4 PCS."       
+    },
+    {
+        "_id":"1",
+        "images":"./images/extra-1.jpg",
+        "name":"Mocha Almond Fudge Ice Cream "       
+    },
+    {
+        "_id":"2",
+        "images":"./images/extra-1.jpg",
+        "name":"Chocolate Chip Ice Cream"       
+    },
+    {
+        "_id":"3",
+        "images":"./images/extra-1.jpg",
+        "name":"Sticky Chewy Chocolate Ice Cream"       
+    },
+    {
+        "_id":"4",
+        "images":"./images/extra-1.jpg",
+        "name":"Rum Raisin Ice Cream "       
+    },
+    {
+        "_id":"5",
+        "images":"./images/extra-1.jpg",
+        "name":"Very Strawberry Ice Cream"       
+    }
+    
+]

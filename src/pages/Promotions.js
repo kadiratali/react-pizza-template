@@ -6,7 +6,7 @@ export default function Promotions() {
 
   return (
     <div className="min-h-screen w-full ">
-      <div className="w-3/4 m-auto  ">
+      <div className="w-3/4 m-auto">
         {promotion.map((data) => {
           return (
             <div key={data._id} className="mt-5">

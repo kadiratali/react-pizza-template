@@ -135,7 +135,7 @@ export default function Navbar() {
 
                   <a
                     onClick={bgHandler}
-                    href="#"
+                    href="/pizza"
                     data-columns="1"
                     className={`${
                       menubg[1] === true ? "bg-red-900" : "hover:bg-red-600"
@@ -146,7 +146,7 @@ export default function Navbar() {
 
                   <a
                     onClick={bgHandler}
-                    href="#"
+                    href="/sandwiches"
                     data-columns="2"
                     className={`${
                       menubg[2] === true ? "bg-red-900" : "hover:bg-red-600"
@@ -157,13 +157,13 @@ export default function Navbar() {
 
                   <a
                     onClick={bgHandler}
-                    href="#"
+                    href="/extra"
                     data-columns="3"
                     className={`${
                       menubg[3] === true ? "bg-red-900" : "hover:bg-red-600"
                     } text-white block px-1 md:px-3 py-2 rounded-md text-sm md:text-base font-medium`}
                   >
-                    Yan Ürünler
+                    Extra
                   </a>
                 </div>
               </div>
@@ -307,7 +307,7 @@ export default function Navbar() {
             <a
               data-columns="1"
               onClick={bgHandler}
-              href="#"
+              href="/pizza"
               className={`${
                 menubg[1] === true ? "bg-red-900" : "hover:bg-red-600"
               } text-white block px-3 py-2 rounded-md text-base font-medium`}
@@ -318,7 +318,7 @@ export default function Navbar() {
             <a
               data-columns="2"
               onClick={bgHandler}
-              href="#"
+              href="/sandwiches"
               className={`${
                 menubg[2] === true ? "bg-red-900" : "hover:bg-red-600"
               } text-white block px-3 py-2 rounded-md text-base font-medium`}
@@ -329,12 +329,12 @@ export default function Navbar() {
             <a
               data-columns="3"
               onClick={bgHandler}
-              href="#"
+              href="/extra"
               className={`${
                 menubg[3] === true ? "bg-red-900" : "hover:bg-red-600"
               } text-white block px-3 py-2 rounded-md text-base font-medium`}
             >
-              Yan Ürünler
+              Extra
             </a>
           </div>
         </div>
